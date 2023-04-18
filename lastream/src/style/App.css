@@ -1,0 +1,179 @@
+*{
+  margin: 2px;
+  padding: 0;
+}
+
+/* #navmenu{
+  margin-top: 52px;
+}
+
+.navitems li{
+  list-style: none;   
+  display: inline;
+  padding-right: 80px;
+}
+
+#logo{
+  margin: 10px;
+  height: 90px;
+  margin-right: 0;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+}
+
+#signinbutton{
+  margin: 40px;
+} 
+
+.homesignin{
+  background-color: black;
+  color: azure;
+  border-radius: 5px;
+}
+
+.homesignin p{
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-bottom: 10px;
+} */
+
+.content{
+  margin:50px;
+}
+
+.contente{
+  margin:-15px;
+}
+
+.slogan{
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.description{
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.ideas{
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.homecontentimage{
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+}
+
+.footer{
+  padding: 20px;
+  text-align: center;
+  font-size: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+text-decoration: underline;
+font-weight: 900;
+}
+
+.signinform{
+  text-align: center;
+  margin: 50px;
+}
+
+.signin{
+  color: white;
+}
+
+.empiconbutton{
+  background-color: #309ec3;
+  border: 0cm;
+  cursor: pointer;
+}
+
+.text{
+  margin: 5px;
+  padding: 5px; 
+  width: 20%;
+}
+
+.error{
+  color:red;
+}
+
+.topBorder{
+    margin: 0;
+    background-color: #309ec3;
+    padding: 15px;
+    padding-left: 25px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.empicon{
+  padding: 10px;
+  height: 50px;
+}
+
+.emporg{
+  padding:25px
+}
+
+/* .messages{
+  display: grid;
+  grid-template-columns: 40px 80px ;
+}
+
+.messageBar{
+  min-width: 100px;
+  background-color: grey;
+}
+
+.message{
+  background-color: white;
+} */
+
+.conferenceTitle{
+  text-align: center;
+  padding: 10px;
+}
+
+.videoObject{
+  width: 500px;
+}
+
+.videoContainer{
+  display: flex;
+  justify-content: space-around;
+}
+
+.videoCaption{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.conferenceHead{
+  display: flex;
+  justify-content: space-around;
+}
+

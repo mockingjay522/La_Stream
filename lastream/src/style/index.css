@@ -1,0 +1,107 @@
+/* *{
+  margin: 0;
+  padding: 0;
+}
+
+
+#navmenu{
+  margin-top: 52px;
+}
+
+.navitems li{
+  list-style: none;   
+  display: inline;
+  padding-right: 80px;
+}
+
+#logo{
+  margin: 10px;
+  height: 90px;
+  margin-right: 0;
+}
+
+.navbar{
+  display: flex;
+  justify-content: space-around;
+}
+
+#signinbutton{
+  margin: 40px;
+}
+
+.homesignin{
+  background-color: black;
+  color: azure;
+  border-radius: 5px;
+}
+
+.homesignin p{
+  padding-top: 10px;
+  padding-right: 25px;
+  padding-left: 25px;
+  padding-bottom: 10px;
+}
+
+.content{
+  margin:100px;
+}
+
+.slogan{
+  padding: 10px;
+  font-size: 75px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.description{
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.ideas{
+  margin: 50px;
+  padding: 10px;
+  font-size: 30px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.homecontentimage{
+  display: flex;
+  margin: 50px;
+  justify-content: center;
+}
+
+.footer{
+  padding: 20px;
+  text-align: center;
+  font-size: 15px;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+text-decoration: underline;
+font-weight: 900;
+}
+
+.signinform{
+  text-align: center;
+  margin: 50px;
+}
+
+.signin{
+  color: white;
+}
+
+.text{
+  margin: 10px;
+  padding: 5px; 
+  width: 20%;
+} */
